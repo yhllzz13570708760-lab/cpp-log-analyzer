@@ -1,0 +1,4 @@
+[2026-11-17 09:00:00] [INFO] Service started
+[2026-11-17 09:01:00] [WARNING] Disk space is low
+[2026-11-17 09:02:00] [ERROR] Database connection failed
+[2026-11-17 09:03:00] [INFO] Database connection restored
